@@ -43,7 +43,7 @@ class LoanAdmin(admin.ModelAdmin):
 ```
 
 ## OUTPUT
-![alt text](loans.png)
+![alt text](<Screenshot 2024-10-28 134102-1.png>)
 
 
 ## RESULT
